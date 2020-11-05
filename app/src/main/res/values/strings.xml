@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="web_browser">web_browser</string>
+    <string name="camera">camera</string>
+    <string name="alarm">alarm</string>
+    <string name="video">Video</string>
+    <string name="calendar">Calendar</string>
+    <string name="music">Music</string>
+    <string name="gallery">Gallery</string>
+    <string name="call_log">Call Log</string>
+    <string name="photo_camera">Photo Camera</string>
+    <string name="video_camera">Video Camera</string>
+    <string name="map">Map</string>
+</resources>
